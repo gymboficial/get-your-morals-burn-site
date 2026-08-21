@@ -1,0 +1,23 @@
+{
+  "name": "GET YOUR MORALS BURN",
+  "short_name": "G.Y.M.B.",
+  "description": "Official website of GET YOUR MORALS BURN.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#070707",
+  "icons": [
+    {
+      "src": "/manus-storage/gymb-favicon-512_b596367d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/manus-storage/gymb-apple-touch-icon_b2ffe1b7.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
